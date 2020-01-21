@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <!-- Samsung j2y18lte -->
+    <project path="device/samsung/j2y18lte" name="Rahulpal-DD/android_device_samsung_j2y18lte" revision="cm-14.1" />
+
+    <!-- LineageOS dependencies -->
+    <project path="device/qcom/common" name="LineageOS/android_device_qcom_common" revision="cm-14.1" />
+    <project path="external/sony/boringssl-compat" name="LineageOS/android_external_sony_boringssl-compat" revision="cm-14.1" />
+</manifest>
